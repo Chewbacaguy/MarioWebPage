@@ -1,0 +1,1 @@
+This is my first attempt to creating a web page followed by a tutorial by the net ninja, its a Super Mario website that used html and css and it is also responsive for most web and mobile devices. There is no back end tho-pure front end. 
